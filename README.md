@@ -18,11 +18,30 @@
 🎯 My goal is to build scalable, user-friendly systems and grow my technical skills into full-stack development.
 
 ---
+### 🛠 Skills
 
-### 🚀 Tech Stack
+<p align="center">
 
-#### **Languages**
-- C#, JavaScript, SQL, HTML, CSS,TypeScript
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</p>
+
 
 #### **Frameworks & Tools**
 - ASP.NET Core 7 / MVC  
