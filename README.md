@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
 <p align="center">
   <a href="https://github.com/rania">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Learner+💻;Business+Owner+🛍️;Technology+Enthusiast+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻 ; ASP.NET Core+& Angular +;Software+Engineer+🚀" />
   </a>
 </p>
+
 
 
 ---
