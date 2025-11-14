@@ -41,7 +41,7 @@
 ### 📫 Connect With Me
 
 - ✉ Email: **raniataweel88@gmail.com**  
-- 🔗 LinkedIn: _linkedin.com/in/rania-taweel-a37b7a227_
+- 🔗 LinkedIn: _[linkedin.com/in/rania-taweel-a37b7a227](https://www.linkedin.com/in/rania-taweel-a37b7a227/)_
 
 ---
 
