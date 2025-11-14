@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
-<h3 align="center">Full-Stack .NET Learner | Business Owner | Technology Enthusiast 🚀</h3>
+<h3 align="center">Full Stack Developer | ASP.NET Core & Angular | Software Engineer
+ </h3>
 
 ---
 
