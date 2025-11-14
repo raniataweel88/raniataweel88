@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
 
 <p align="center">
-  <img src="LINK_HERE" alt="Welcome Banner" width="100%" />
+  <img src="[LINK_HERE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeomoer.github.io%2Fmoer-base-r%2Funit99%2Fsl02_github.html&psig=AOvVaw2-Tm2udZzDLd2-jNiaZ4sk&ust=1763217617744000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjO0Njv8ZADFQAAAAAdAAAAABAE)" alt="Welcome Banner" width="100%" />
 </p>
 
 <p align="center">
